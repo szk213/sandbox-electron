@@ -1,0 +1,23 @@
+{
+  "name": "sandbox-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "electron": "electron",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szk213/sandbox-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szk213/sandbox-electron/issues"
+  },
+  "homepage": "https://github.com/szk213/sandbox-electron#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
