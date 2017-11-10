@@ -23,4 +23,5 @@ package.jsonのトップレベルのmainにエントリーポイントのjsを�
 - [Electron で開発したアプリの Windowsインストーラの作成](http://tech.at-iroha.jp/?p=548)
 
 ## Tags
-- v1.0.0: electrionアプリ作成
+- v1.0.0: electronアプリ作成
+- v1.1.0: electronパッケージ化
