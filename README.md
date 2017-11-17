@@ -1,12 +1,6 @@
-sandbox-electron
-===
+# sandbox-electron
 
 Electronを試してみる
-
-## ビルド実行
-```cmd
-npm run electron .
-```
 
 ## ビルド
 ### Windows 64bit
